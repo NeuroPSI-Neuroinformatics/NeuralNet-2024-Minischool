@@ -3,7 +3,7 @@ Shared resources for the planned Minischool activity **"Hands-on case studies of
 
 ## Setup
 **Requirements:**
-- EBRAINS account. If you do not already have an EBRAINS account, please register one [here](https://www.ebrains.eu/page/sign-up).
+- EBRAINS account. If you do not already have an EBRAINS account, please register [here](https://www.ebrains.eu/page/sign-up).
 - A web browser and an internet connection.
 
 ### Open an EBRAINS lab
