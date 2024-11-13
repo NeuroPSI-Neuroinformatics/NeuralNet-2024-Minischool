@@ -2,3 +2,5 @@ fairgraph==0.12.1
 neo==0.13.3
 numpy==1.26.4
 pandas==2.2.2
+matplotlib==3.8.4
+quantities==0.15.0
