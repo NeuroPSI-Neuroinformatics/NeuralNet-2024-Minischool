@@ -26,6 +26,7 @@ Shared resources for the planned Minischool activity **"Hands-on case studies of
   ![image](https://github.com/user-attachments/assets/a44ad94b-05ee-4f68-97dd-1fa4dd773a9d)\
 - Copy and paste the following code:
  ```
-bash NeuralNet-2024-Minischool/setup.sh
+cd NeuralNet-2024-Minischool/
+bash setup.sh
  ```
 - You can now open a notebook and run code.
